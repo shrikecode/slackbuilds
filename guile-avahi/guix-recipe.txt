@@ -1,0 +1,7 @@
+Command: guix pack -RR --no-grafts --compression=xz --symlink=/usr/local/bin/nyxt=bin/nyxt --root=nyxt-2.2.4.tar.xz -L build-scripts/ nyxt
+Store path: /gnu/store/p9gacbfcvvmj9ckr2m7gajq4z5aay8ix-nyxt-tarball-pack.tar.xz
+Guix describe: Generation 1	Jan 14 2022 10:33:22	(current)
+  guix 3dbb711
+    repository URL: https://github.com/guix-mirror/guix.git
+    branch: master
+    commit: 3dbb7112d443ab0220febb467effc5f4c46141b8

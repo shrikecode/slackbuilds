@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|'
+# on the right side marks the last column you can put a character in.  You must
+# make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':'.
+
+           |-----handy-ruler------------------------------------------------------|
+qemu-static: qemu-static (a processor emulator)
+qemu-static:
+qemu-static: QEMU is a FAST! processor emulator using dynamic translation to
+qemu-static: achieve good emulation speed. QEMU has two operating modes:
+qemu-static: Full system emulation and User mode emulation.
+qemu-static:
+qemu-static: This package contains statically compiled binaries of only the
+qemu-static: User mode emulators, for use inside chroot environments.
+qemu-static:
+qemu-static:
+qemu-static: Home page at http://qemu.org/
