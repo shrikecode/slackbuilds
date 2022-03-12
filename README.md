@@ -1,8 +1,5 @@
 # slackbuilds
 
-## TODO
+## Disclaimer
 
-* fix slackbuilds / clean them
-* add slackbuilds for all packages in my repo
-* change repo from current to 15.0
-* buildscript (wget source, then execute slackbuild)
+These are mostly modified SlackBuilds from other sources (SBo, alienBOB, ponce or conraid / slackers), version bumoped and / or modified (usually I add note in README). Some of them miss info files, and slack-desc is placeholder basically. This should be fixed, but not sure if I will be keeping nix, guix and guile deps.
