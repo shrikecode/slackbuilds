@@ -1,0 +1,4 @@
+Abstract library implementation of a VT220/xterm/ECMA-48 terminal
+emulator.
+
+This SlackBuild was upped to the newest version (required by Neovim 0.8.1)
