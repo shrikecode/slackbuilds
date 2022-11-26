@@ -1,0 +1,10 @@
+#+title: Additional SlackBuilds repository for Slackware
+
+* About this repository
+
+I made a clean start for my Slackware-current and / or 15.0.
+
+SlackBuilds here will probably be quite lazy, binary tarball's repackaged if available.
+I might submit some of them to official repository though, for now it is going to be my
+private 'local override' for sbotools mirror kindof. Mainly because I need on more than
+one machine, and see no reason of making it private.

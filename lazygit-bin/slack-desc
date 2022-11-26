@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+           |-----handy-ruler------------------------------------------------------|
+lazygit-bin: lazygit-bin (simple terminal UI for git commands - binary release)
+lazygit-bin:
+lazygit-bin: A simple terminal UI for git commands, written in Go
+lazygit-bin: with the gocui library.
+lazygit-bin:
+lazygit-bin:
+lazygit-bin:
+lazygit-bin:
+lazygit-bin:
+lazygit-bin:
+lazygit-bin:
