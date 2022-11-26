@@ -1,10 +1,22 @@
 #+title: Additional SlackBuilds repository for Slackware
 
-* About this repository
-
 I made a clean start for my Slackware-current and / or 15.0.
 
 SlackBuilds here will probably be quite lazy, binary tarball's repackaged if available.
 I might submit some of them to official repository though, for now it is going to be my
 private 'local override' for sbotools mirror kindof. Mainly because I need on more than
 one machine, and see no reason of making it private.
+
+** Usage
+
+I will be only covering using it with sbotools. You can install it from [[https://slackbuilds.org/repository/15.0/system/sbotools/][SlackBuilds]].
+
+It has no dependencies, so manual installation should be nice and easy.
+
+Clone this repo to your computer, then run
+
+#+begin_src sh
+sboconfig -o /path/to/this/repo/copy
+#+end_src
+
+Now pick up some Slack!
