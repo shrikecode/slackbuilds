@@ -19,4 +19,18 @@ Clone this repo to your computer, then run
 sboconfig -o /path/to/this/repo/copy
 #+end_src
 
+*** slb-get
+
+I added little script that will download a SlackBuild from Slackware64 source
+mirror (-current). Might come in handy if you want to rebuilt some of the base
+packages.
+
+**** Example:
+
+#+begin_src sh
+./slb-get ap/vim
+#+end_src
+
+This will download Vim SlackBuild.
+
 Now pick up some Slack!
