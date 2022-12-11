@@ -1,3 +1,12 @@
 #!/bin/bash
+# A script to download SlackBuild from Slackware64 source.
+# Useful if you wanna tweak some build flags of base package.
+#
+# Usage: ./slb-get set/program
+# 
+# Example: ./slb-get ap/vim
+#
+# Author: laniusone@pm.me
 
-wget -r -nH --cut-dirs=4 --no-parent --no-directories -R "index.html*" https://mirrors.slackware.com/slackware/slackware64-current/source/$1
+wget -r -nH --cut-dirs=4 --no-parent -X "*" \
+-R "index.html*" https://mirrors.slackware.com/slackware/slackware64-current/source/"$1"/
