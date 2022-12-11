@@ -139,8 +139,8 @@ CFLAGS="$SLKCFLAGS" \
   --enable-multibyte \
   --enable-cscope \
   --with-features=huge \
-  --with-x \
   --with-compiledby="<volkerdi@slackware.com>" \
+  --with-x \
   --build=$ARCH-slackware-linux || exit 1
 }
 
