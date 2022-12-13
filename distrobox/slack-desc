@@ -1,0 +1,20 @@
+
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+         |-----handy-ruler------------------------------------------------------|
+distrobox: distrobox (Use any linux distribution inside your terminal.)
+distrobox:
+distrobox: Use any Linux distribution inside your terminal. Enable both backward
+distrobox: and forward compatibility with software and freedom to use whatever
+distrobox: distribution you’re more comfortable with. Distrobox uses podman or
+distrobox: docker to create containers using the Linux distribution of your
+distrobox: choice. The created container will be tightly integrated with the
+distrobox: host, allowing sharing of the HOME directory of the user, external
+distrobox: storage, external USB devices and graphical apps (X11/Wayland),
+distrobox: and audio.
+distrobox:
