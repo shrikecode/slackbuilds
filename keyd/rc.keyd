@@ -1,0 +1,34 @@
+#!/bin/bash
+# /etc/rc.d/rc.keyd - start/stop the keyd daemon
+
+start_keyd() {
+  if ! /usr/bin/daemon --running -n keyd ; then
+    echo "Starting keyd:  /usr/bin/keyd"
+    /usr/bin/daemon -n keyd /usr/bin/keyd
+  fi
+}
+
+stop_keyd() {
+  echo "Stopping keyd."
+  /usr/bin/daemon -n keyd --stop 
+}
+
+restart_keyd() {
+  stop_keyd
+  sleep 1
+  start_keyd
+}
+
+case "$1" in
+'start')
+  start_keyd
+  ;;
+'stop')
+  stop_keyd
+  ;;
+'restart')
+  restart_keyd
+  ;;
+*)
+  echo "usage $0 start|stop|restart"
+esac
