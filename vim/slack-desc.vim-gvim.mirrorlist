@@ -37,7 +37,7 @@
 
 <div id="mirrorbrain-mirrors">
 <h3>Mirrors</h3>
-<p>List of best mirrors for IP address 194.99.105.77, located at 52.229599,21.006701 in Poland (PL).</p>
+<p>List of best mirrors for IP address 217.138.209.152, located at 52.229599,21.006701 in Poland (PL).</p>
 
 <p><a href="https://maps.google.com/maps/api/staticmap?size=640x512&amp;visual_refresh=true&amp;scale=2&amp;maptype=roadmap&amp;sensor=false&amp;markers=color:red|52.229599,21.006701&amp;markers=color:yellow|label:1|52.250000,21.000000&amp;markers=color:yellow|label:2|53.779999,20.493999&amp;markers=color:yellow|label:3|47.492001,19.051001&amp;markers=color:yellow|label:4|49.200001,16.632999&amp;markers=color:yellow|label:5|53.000000,28.000000&amp;markers=color:yellow|label:6|46.000000,25.000000&amp;markers=color:yellow|label:7|59.325001,18.056000&amp;markers=color:yellow|label:8|59.325001,18.056000&amp;markers=color:yellow|label:9|49.233002,28.481001">Map showing the closest mirrors</a></p>
 
@@ -50,7 +50,7 @@
 </div>
 
 <div class="mirrorbrain-mirrors-grp">
-<h4>Found 37 mirrors in other countries, but same continent (EU)</h4>
+<h4>Found 36 mirrors in other countries, but same continent (EU)</h4>
 <ul>
   <li><a href="https://quantum-mirror.hu/mirrors/pub/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://quantum-mirror.hu/mirrors/pub/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (hu, prio 100)</li>
   <li><a href="http://ftp.linux.cz/pub/linux/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">http://ftp.linux.cz/pub/linux/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (cz, prio 100)</li>
@@ -76,7 +76,6 @@
   <li><a href="https://mirror.netcologne.de/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://mirror.netcologne.de/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (de, prio 100)</li>
   <li><a href="http://ftp.ntua.gr/pub/linux/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">http://ftp.ntua.gr/pub/linux/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (gr, prio 100)</li>
   <li><a href="https://ftp.nluug.nl/os/Linux/distr/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://ftp.nluug.nl/os/Linux/distr/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (nl, prio 100)</li>
-  <li><a href="http://slackware.qontinuum.space/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">http://slackware.qontinuum.space/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (mc, prio 100)</li>
   <li><a href="https://mirror.nl.leaseweb.net/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://mirror.nl.leaseweb.net/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (nl, prio 100)</li>
   <li><a href="https://mirror.koddos.net/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://mirror.koddos.net/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (nl, prio 100)</li>
   <li><a href="https://mirror.yandex.ru/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://mirror.yandex.ru/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (ru, prio 100)</li>
@@ -109,6 +108,7 @@
   <li><a href="http://slackware.absolutehosting.net/pub/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">http://slackware.absolutehosting.net/pub/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (us, prio 100)</li>
   <li><a href="https://ftp.ussg.indiana.edu/linux/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://ftp.ussg.indiana.edu/linux/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (us, prio 100)</li>
   <li><a href="https://plug-mirror.rcac.purdue.edu/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://plug-mirror.rcac.purdue.edu/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (us, prio 100)</li>
+  <li><a href="http://mirror.rise.ph/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">http://mirror.rise.ph/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (ph, prio 100)</li>
   <li><a href="https://mirrors.ucr.ac.cr/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://mirrors.ucr.ac.cr/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (cr, prio 100)</li>
   <li><a href="https://mirror.cedia.org.ec/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://mirror.cedia.org.ec/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (ec, prio 100)</li>
   <li><a href="https://slackware.zero.com.ar/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://slackware.zero.com.ar/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (ar, prio 100)</li>
@@ -121,10 +121,9 @@
   <li><a href="https://mirror.fcix.net/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://mirror.fcix.net/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (us, prio 100)</li>
   <li><a href="http://ftp.slackware.com/pub/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">http://ftp.slackware.com/pub/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (us, prio 100)</li>
   <li><a href="https://mirrors.ocf.berkeley.edu/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://mirrors.ocf.berkeley.edu/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (us, prio 100)</li>
-  <li><a href="https://mirrors.kernel.org/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://mirrors.kernel.org/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (us, prio 100)</li>
+  <li><a href="https://syd.mirror.rackspace.com/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://syd.mirror.rackspace.com/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (au, prio 100)</li>
   <li><a href="http://mirror.internode.on.net/pub/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">http://mirror.internode.on.net/pub/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (au, prio 100)</li>
   <li><a href="http://ftp.swin.edu.au/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">http://ftp.swin.edu.au/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (au, prio 100)</li>
-  <li><a href="http://ftp.cc.swin.edu.au/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">http://ftp.cc.swin.edu.au/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (au, prio 100)</li>
   <li><a href="https://slackware.mirror.digitalpacific.com.au/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://slackware.mirror.digitalpacific.com.au/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (au, prio 100)</li>
   <li><a href="https://mirror.lagoon.nc/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim">https://mirror.lagoon.nc/slackware/slackware64-current/source/ap/vim/slack-desc.vim-gvim</a> (nc, prio 100)</li>
 </ul>

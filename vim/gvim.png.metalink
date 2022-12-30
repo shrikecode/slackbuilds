@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/"
+  origin="https://mirrors.slackware.com/slackware/slackware64-current/source/ap/vim/gvim.png.metalink"
+  generator="MirrorBrain 2.19.0 (see http://mirrorbrain.org/)"
+  type="dynamic"  pubdate="Fri, 30 Dec 2022 09:29:36 GMT"  refreshdate="Fri, 30 Dec 2022 09:29:36 GMT">
+
+  <publisher>
+    <name>Slackware Linux</name>
+    <url>https://mirrors.slackware.com</url>
+  </publisher>
+
+  <files>
+  <file name="gvim.png">
+    <size>8249</size>
+
+    <!-- <mtime>1137690081</mtime> -->
+
+    <!-- internal id: 81756 -->
+      <verification>
+        <hash type="md5">29afd22ae269f59c4b30e6f01087745e</hash>
+        <hash type="sha1">00311fda240678f6fe04c5878429e7ca4f45e967</hash>
+        <hash type="sha256">126f195fbf5be8b520f4dea6043fece04336ae59f2f7ca2ad48f8d8876d779c2</hash>
+        <pieces length="262144" type="sha1">
+          <hash piece="0">00311fda240678f6fe04c5878429e7ca4f45e967</hash>
+        </pieces>
+      </verification>
+    <resources>
+
+
+
+    <!-- Found 70 mirrors: 0 in the same network prefix, 0 in the same autonomous system,
+         2 handling this country, 36 in the same region, 32 elsewhere -->
+
+    <!-- Mirrors in the same network (unknown): -->
+
+    <!-- Mirrors in the same AS (unknown): -->
+
+    <!-- Mirrors which handle this country (PL): -->
+    <url type="http" location="pl" preference="100">http://mirror.onet.pl/pub/mirrors/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="pl" preference="99">https://ftp.slackware.pl/pub/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+
+    <!-- Mirrors in the same continent (EU): -->
+    <url type="https" location="hu" preference="98">https://quantum-mirror.hu/mirrors/pub/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="cz" preference="97">http://ftp.linux.cz/pub/linux/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="by" preference="96">http://mirror.datacenter.by/pub/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="ro" preference="95">https://mirrors.nxthost.com/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="se" preference="94">https://ftpmirror.infania.net/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="se" preference="93">https://ftp.acc.umu.se/mirror/slackware.com/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="ua" preference="92">http://slackware.ip-connect.info/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="de" preference="91">http://ftp.tu-chemnitz.de/pub/linux/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="hr" preference="90">http://mirror.slackware.hr/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="md" preference="89">https://mirror.ihost.md/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="dk" preference="88">https://mirrors.dotsrc.org/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="bg" preference="87">http://slackware.telecoms.bg/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="bg" preference="86">https://mirror.telepoint.bg/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="bg" preference="85">https://mirrors.netix.net/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="de" preference="84">https://ftp6.gwdg.de/pub/linux/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="ua" preference="83">https://ifconfig.com.ua/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="de" preference="82">https://mirror.de.leaseweb.net/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="de" preference="81">http://mirrors.nav.ro/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="it" preference="80">https://slackware.mirror.garr.it/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="tr" preference="79">http://ftp.linux.org.tr/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="de" preference="78">https://linux.rz.rub.de/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="de" preference="77">https://mirror.netcologne.de/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="gr" preference="76">http://ftp.ntua.gr/pub/linux/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="nl" preference="75">https://ftp.nluug.nl/os/Linux/distr/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="nl" preference="74">https://mirror.nl.leaseweb.net/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="nl" preference="73">https://mirror.koddos.net/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="ru" preference="72">https://mirror.yandex.ru/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="gr" preference="71">https://ftp.cc.uoc.gr/mirrors/linux/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="fr" preference="70">http://nephtys.lip6.fr/pub/linux/distributions/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="fr" preference="69">http://slackware.mirrors.ovh.net/ftp.slackware.com/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="gb" preference="68">https://www.mirrorservice.org/sites/ftp.slackware.com/pub/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="gb" preference="67">http://slackware.uk/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="gb" preference="66">https://mirror.bytemark.co.uk/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="gb" preference="65">https://lon.mirror.rackspace.com/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="pt" preference="64">https://ftp.rnl.tecnico.ulisboa.pt/pub/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="ru" preference="63">http://slackware.tsu.ru/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+
+    <!-- Mirrors in the rest of the world: -->
+    <url type="https" location="sa" preference="62">https://mirror.lyrahosting.com/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="za" preference="61">http://slackware.mirror.ac.za/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="cn" preference="60">https://mirrors.bfsu.edu.cn/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="us" preference="59">https://mirror.cs.princeton.edu/pub/mirrors/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="sg" preference="58">http://download.nus.edu.sg/mirror/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="hk" preference="57">https://mirror-hk.koddos.net/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="hk" preference="56">https://hkg.mirror.rackspace.com/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="br" preference="55">http://ftp.slackware-brasil.com.br/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="br" preference="54">https://linorg.usp.br/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="ca" preference="53">https://mirror.csclub.uwaterloo.ca/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="us" preference="52">https://mirror.slackbuilds.org/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="us" preference="51">http://slackware.absolutehosting.net/pub/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="us" preference="50">https://ftp.ussg.indiana.edu/linux/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="us" preference="49">https://plug-mirror.rcac.purdue.edu/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="ph" preference="48">http://mirror.rise.ph/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="cr" preference="47">https://mirrors.ucr.ac.cr/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="ec" preference="46">https://mirror.cedia.org.ec/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="ar" preference="45">https://slackware.zero.com.ar/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="us" preference="44">http://slackware.mirrors.tds.net/pub/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="jp" preference="43">http://ftp.riken.jp/Linux/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="jp" preference="42">http://ftp.nara.wide.ad.jp/pub/Linux/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="us" preference="41">https://dfw.mirror.rackspace.com/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="us" preference="40">http://slackware.cs.utah.edu/pub/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="us" preference="39">https://mirrors.xmission.com/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="us" preference="38">https://mirror.fcix.net/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="us" preference="37">http://ftp.slackware.com/pub/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="us" preference="36">https://mirrors.ocf.berkeley.edu/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="au" preference="35">https://syd.mirror.rackspace.com/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="au" preference="34">http://mirror.internode.on.net/pub/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="http" location="au" preference="33">http://ftp.swin.edu.au/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="au" preference="32">https://slackware.mirror.digitalpacific.com.au/slackware64-current/source/ap/vim/gvim.png</url>
+    <url type="https" location="nc" preference="31">https://mirror.lagoon.nc/slackware/slackware64-current/source/ap/vim/gvim.png</url>
+    </resources>
+    </file>
+  </files>
+</metalink>

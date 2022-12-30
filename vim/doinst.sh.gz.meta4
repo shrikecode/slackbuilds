@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <generator>MirrorBrain/2.19.0</generator>
+  <origin dynamic="true">https://mirrors.slackware.com/slackware/slackware64-current/source/ap/vim/doinst.sh.gz.meta4</origin>
+  <published>2022-12-30T09:29:34Z</published>
+  <publisher>
+    <name>Slackware Linux</name>
+    <url>https://mirrors.slackware.com</url>
+  </publisher>
+
+  <file name="doinst.sh.gz">
+    <size>505</size>
+
+    <!-- <mtime>1664215226</mtime> -->
+
+
+
+    <!-- Found 70 mirrors: 0 in the same network prefix, 0 in the same autonomous system,
+         2 handling this country, 36 in the same region, 32 elsewhere -->
+
+    <!-- Mirrors in the same network (unknown): -->
+
+    <!-- Mirrors in the same AS (unknown): -->
+
+    <!-- Mirrors which handle this country (PL): -->
+    <url location="pl" priority="1">http://mirror.onet.pl/pub/mirrors/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="pl" priority="2">https://ftp.slackware.pl/pub/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+
+    <!-- Mirrors in the same continent (EU): -->
+    <url location="hu" priority="3">https://quantum-mirror.hu/mirrors/pub/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="cz" priority="4">http://ftp.linux.cz/pub/linux/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="by" priority="5">http://mirror.datacenter.by/pub/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="ro" priority="6">https://mirrors.nxthost.com/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="se" priority="7">https://ftpmirror.infania.net/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="se" priority="8">https://ftp.acc.umu.se/mirror/slackware.com/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="ua" priority="9">http://slackware.ip-connect.info/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="de" priority="10">http://ftp.tu-chemnitz.de/pub/linux/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="hr" priority="11">http://mirror.slackware.hr/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="md" priority="12">https://mirror.ihost.md/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="dk" priority="13">https://mirrors.dotsrc.org/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="bg" priority="14">http://slackware.telecoms.bg/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="bg" priority="15">https://mirror.telepoint.bg/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="bg" priority="16">https://mirrors.netix.net/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="de" priority="17">https://ftp6.gwdg.de/pub/linux/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="ua" priority="18">https://ifconfig.com.ua/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="de" priority="19">https://mirror.de.leaseweb.net/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="de" priority="20">http://mirrors.nav.ro/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="it" priority="21">https://slackware.mirror.garr.it/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="tr" priority="22">http://ftp.linux.org.tr/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="de" priority="23">https://linux.rz.rub.de/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="de" priority="24">https://mirror.netcologne.de/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="gr" priority="25">http://ftp.ntua.gr/pub/linux/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="nl" priority="26">https://ftp.nluug.nl/os/Linux/distr/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="nl" priority="27">https://mirror.nl.leaseweb.net/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="nl" priority="28">https://mirror.koddos.net/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="ru" priority="29">https://mirror.yandex.ru/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="gr" priority="30">https://ftp.cc.uoc.gr/mirrors/linux/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="fr" priority="31">http://nephtys.lip6.fr/pub/linux/distributions/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="fr" priority="32">http://slackware.mirrors.ovh.net/ftp.slackware.com/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="gb" priority="33">https://www.mirrorservice.org/sites/ftp.slackware.com/pub/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="gb" priority="34">http://slackware.uk/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="gb" priority="35">https://mirror.bytemark.co.uk/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="gb" priority="36">https://lon.mirror.rackspace.com/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="pt" priority="37">https://ftp.rnl.tecnico.ulisboa.pt/pub/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="ru" priority="38">http://slackware.tsu.ru/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+
+    <!-- Mirrors in the rest of the world: -->
+    <url location="sa" priority="39">https://mirror.lyrahosting.com/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="za" priority="40">http://slackware.mirror.ac.za/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="cn" priority="41">https://mirrors.bfsu.edu.cn/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="us" priority="42">https://mirror.cs.princeton.edu/pub/mirrors/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="sg" priority="43">http://download.nus.edu.sg/mirror/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="hk" priority="44">https://mirror-hk.koddos.net/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="hk" priority="45">https://hkg.mirror.rackspace.com/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="br" priority="46">http://ftp.slackware-brasil.com.br/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="br" priority="47">https://linorg.usp.br/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="ca" priority="48">https://mirror.csclub.uwaterloo.ca/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="us" priority="49">https://mirror.slackbuilds.org/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="us" priority="50">http://slackware.absolutehosting.net/pub/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="us" priority="51">https://ftp.ussg.indiana.edu/linux/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="us" priority="52">https://plug-mirror.rcac.purdue.edu/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="ph" priority="53">http://mirror.rise.ph/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="cr" priority="54">https://mirrors.ucr.ac.cr/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="ec" priority="55">https://mirror.cedia.org.ec/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="ar" priority="56">https://slackware.zero.com.ar/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="us" priority="57">http://slackware.mirrors.tds.net/pub/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="jp" priority="58">http://ftp.riken.jp/Linux/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="jp" priority="59">http://ftp.nara.wide.ad.jp/pub/Linux/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="us" priority="60">https://dfw.mirror.rackspace.com/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="us" priority="61">http://slackware.cs.utah.edu/pub/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="us" priority="62">https://mirrors.xmission.com/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="us" priority="63">https://mirror.fcix.net/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="us" priority="64">http://ftp.slackware.com/pub/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="us" priority="65">https://mirrors.ocf.berkeley.edu/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="au" priority="66">https://syd.mirror.rackspace.com/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="au" priority="67">http://mirror.internode.on.net/pub/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="au" priority="68">http://ftp.swin.edu.au/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="au" priority="69">https://slackware.mirror.digitalpacific.com.au/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+    <url location="nc" priority="70">https://mirror.lagoon.nc/slackware/slackware64-current/source/ap/vim/doinst.sh.gz</url>
+  </file>
+</metalink>

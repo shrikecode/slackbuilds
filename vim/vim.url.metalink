@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/"
+  origin="https://mirrors.slackware.com/slackware/slackware64-current/source/ap/vim/vim.url.metalink"
+  generator="MirrorBrain 2.19.0 (see http://mirrorbrain.org/)"
+  type="dynamic"  pubdate="Fri, 30 Dec 2022 09:29:41 GMT"  refreshdate="Fri, 30 Dec 2022 09:29:41 GMT">
+
+  <publisher>
+    <name>Slackware Linux</name>
+    <url>https://mirrors.slackware.com</url>
+  </publisher>
+
+  <files>
+  <file name="vim.url">
+    <size>76</size>
+
+    <!-- <mtime>1670524251</mtime> -->
+
+    <resources>
+
+
+
+    <!-- Found 70 mirrors: 0 in the same network prefix, 0 in the same autonomous system,
+         2 handling this country, 36 in the same region, 32 elsewhere -->
+
+    <!-- Mirrors in the same network (unknown): -->
+
+    <!-- Mirrors in the same AS (unknown): -->
+
+    <!-- Mirrors which handle this country (PL): -->
+    <url type="https" location="pl" preference="100">https://ftp.slackware.pl/pub/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="pl" preference="99">http://mirror.onet.pl/pub/mirrors/slackware/slackware64-current/source/ap/vim/vim.url</url>
+
+    <!-- Mirrors in the same continent (EU): -->
+    <url type="https" location="pt" preference="98">https://ftp.rnl.tecnico.ulisboa.pt/pub/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="gb" preference="97">http://slackware.uk/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="gb" preference="96">https://mirror.bytemark.co.uk/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="gb" preference="95">https://lon.mirror.rackspace.com/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="gb" preference="94">https://www.mirrorservice.org/sites/ftp.slackware.com/pub/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="fr" preference="93">http://nephtys.lip6.fr/pub/linux/distributions/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="fr" preference="92">http://slackware.mirrors.ovh.net/ftp.slackware.com/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="nl" preference="91">https://mirror.nl.leaseweb.net/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="nl" preference="90">https://mirror.koddos.net/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="nl" preference="89">https://ftp.nluug.nl/os/Linux/distr/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="de" preference="88">https://mirror.netcologne.de/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="de" preference="87">https://linux.rz.rub.de/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="de" preference="86">https://mirror.de.leaseweb.net/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="de" preference="85">http://mirrors.nav.ro/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="de" preference="84">https://ftp6.gwdg.de/pub/linux/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="dk" preference="83">https://mirrors.dotsrc.org/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="de" preference="82">http://ftp.tu-chemnitz.de/pub/linux/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="hr" preference="81">http://mirror.slackware.hr/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="it" preference="80">https://slackware.mirror.garr.it/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="cz" preference="79">http://ftp.linux.cz/pub/linux/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="hu" preference="78">https://quantum-mirror.hu/mirrors/pub/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="se" preference="77">https://ftpmirror.infania.net/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="se" preference="76">https://ftp.acc.umu.se/mirror/slackware.com/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="bg" preference="75">http://slackware.telecoms.bg/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="bg" preference="74">https://mirror.telepoint.bg/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="bg" preference="73">https://mirrors.netix.net/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="gr" preference="72">http://ftp.ntua.gr/pub/linux/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="ro" preference="71">https://mirrors.nxthost.com/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="gr" preference="70">https://ftp.cc.uoc.gr/mirrors/linux/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="by" preference="69">http://mirror.datacenter.by/pub/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="ua" preference="68">http://slackware.ip-connect.info/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="tr" preference="67">http://ftp.linux.org.tr/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="md" preference="66">https://mirror.ihost.md/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="ua" preference="65">https://ifconfig.com.ua/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="ru" preference="64">https://mirror.yandex.ru/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="ru" preference="63">http://slackware.tsu.ru/slackware/slackware64-current/source/ap/vim/vim.url</url>
+
+    <!-- Mirrors in the rest of the world: -->
+    <url type="https" location="us" preference="62">https://mirror.cs.princeton.edu/pub/mirrors/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="ca" preference="61">https://mirror.csclub.uwaterloo.ca/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="us" preference="60">https://ftp.ussg.indiana.edu/linux/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="us" preference="59">https://plug-mirror.rcac.purdue.edu/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="us" preference="58">https://mirror.slackbuilds.org/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="us" preference="57">http://slackware.absolutehosting.net/pub/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="us" preference="56">http://slackware.mirrors.tds.net/pub/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="us" preference="55">https://dfw.mirror.rackspace.com/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="cr" preference="54">https://mirrors.ucr.ac.cr/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="us" preference="53">http://slackware.cs.utah.edu/pub/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="us" preference="52">https://mirrors.xmission.com/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="ec" preference="51">https://mirror.cedia.org.ec/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="us" preference="50">https://mirror.fcix.net/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="us" preference="49">https://mirrors.ocf.berkeley.edu/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="us" preference="48">http://ftp.slackware.com/pub/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="br" preference="47">http://ftp.slackware-brasil.com.br/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="br" preference="46">https://linorg.usp.br/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="ar" preference="45">https://slackware.zero.com.ar/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="za" preference="44">http://slackware.mirror.ac.za/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="sa" preference="43">https://mirror.lyrahosting.com/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="sg" preference="42">http://download.nus.edu.sg/mirror/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="cn" preference="41">https://mirrors.bfsu.edu.cn/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="hk" preference="40">https://mirror-hk.koddos.net/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="hk" preference="39">https://hkg.mirror.rackspace.com/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="ph" preference="38">http://mirror.rise.ph/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="jp" preference="37">http://ftp.riken.jp/Linux/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="jp" preference="36">http://ftp.nara.wide.ad.jp/pub/Linux/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="au" preference="35">https://syd.mirror.rackspace.com/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="au" preference="34">http://mirror.internode.on.net/pub/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="http" location="au" preference="33">http://ftp.swin.edu.au/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="au" preference="32">https://slackware.mirror.digitalpacific.com.au/slackware64-current/source/ap/vim/vim.url</url>
+    <url type="https" location="nc" preference="31">https://mirror.lagoon.nc/slackware/slackware64-current/source/ap/vim/vim.url</url>
+    </resources>
+    </file>
+  </files>
+</metalink>
