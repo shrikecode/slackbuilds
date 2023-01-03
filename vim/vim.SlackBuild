@@ -82,6 +82,7 @@ fi
 export SLKLDFLAGS="-L/usr/lib${LIBDIRSUFFIX}"
 
 TMP=${TMP:-/tmp}
+OUTPUT=${OUTPUT:-/tmp}
 PKG=$TMP/package-vim
 
 rm -rf $PKG
@@ -224,5 +225,6 @@ find $PKG | xargs file | grep -e "executable" -e "shared object" | grep ELF \
   | cut -f 1 -d : | xargs strip --strip-unneeded 2> /dev/null
 
 cd $PKG
-/sbin/makepkg -l y -c n $TMP/vim-$VERSION-$ARCH-$BUILD.txz
+/sbin/makepkg -l y -c n $OUTPUT/vim-$VERSION-$ARCH-"$BUILD"_SBo.txz
+
 
